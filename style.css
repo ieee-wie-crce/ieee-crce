@@ -686,7 +686,7 @@ a:hover {
 
 .overlay::before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(0, 0, 0, 0.557);
   position: absolute;
   top: 0;
   right: 0;
